@@ -27,7 +27,6 @@ Git view: Import git repo
 Git view: Import projects from git repo, import as general project    
 Package/Navigator view: Change project facets to Java 1.7 and Dynamic Web Module 3.0    
 Package/Navigator view: Deployment Assembly project reference to the freeacs-common, dbi and shell project    
-Package/Navigator view: Add libs to classpath from freeacs-lib "project"  
 Package/Navigator view: Specify Library->Server runtime on classpath - ex: use an installed Tomcat 7 server  
 
 Overview
