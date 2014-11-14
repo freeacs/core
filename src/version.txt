@@ -1,5 +1,6 @@
 v1.5.43 (2014-11-14)
 - ref: Made "Basic" reporting default.
+- bug: SyslogEntryComparator gave runtime-exceptions - provisioning reports were not run!
 v1.5.42 (2013-06-04)
 - bug: Heartbeat did not work if two heartbeats were defined!
 v1.5.41 (2013-06-03)
