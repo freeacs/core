@@ -62,7 +62,7 @@ public class Properties {
 	}
 
 	public static String getReports() {
-		return getString("reports", null);
+		return getString("reports", "Basic");
 	}
 	
 	public static boolean isStaging() {

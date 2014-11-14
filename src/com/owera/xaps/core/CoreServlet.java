@@ -29,7 +29,7 @@ public class CoreServlet extends HttpServlet {
 
 	private static final long serialVersionUID = -3217484543967391741L;
 
-	public static String version = "1.5.42";
+	public static String version = "1.5.43";
 
 	private static Scheduler scheduler = null;
 
