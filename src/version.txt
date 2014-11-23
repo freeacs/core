@@ -1,3 +1,5 @@
+v1.5.44 (2014-11-23)
+- lib: shell v2.3.41 (bugfix on context switching)
 v1.5.43 (2014-11-14)
 - ref: Made "Basic" reporting default.
 - bug: SyslogEntryComparator gave runtime-exceptions - provisioning reports were not run!
